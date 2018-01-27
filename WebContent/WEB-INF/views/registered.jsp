@@ -21,7 +21,7 @@
 			<td></td>
 		</tr>
 		<tr>
-			<td>Click <a href="http://localhost:8081/elasticsearch-logstash-kibana/"> here </a> to Register another User!</td>
+			<td>Click <a href="http://localhost:8081/spring-mvc-web/"> here </a> to Register another User!</td>
 		</tr>
 		<tr>
 			<td></td>
