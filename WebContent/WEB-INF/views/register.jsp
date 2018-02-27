@@ -7,6 +7,7 @@
             <title>Registration</title>
         </head>
         <body>
+        	<p>This is some additional text....</p>
         		<form:form id="regForm" modelAttribute="user" action="registerProcess" method="post">
                 <table align="center">
                     <tr>
